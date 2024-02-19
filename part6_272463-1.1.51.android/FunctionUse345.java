@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.parser.JSONLexer;
+public class FunctionUse345 {
+public void funcUse() {
+JSONLexer jsonlexer = new JSONLexer();
+}
+}
